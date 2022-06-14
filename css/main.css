@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,700;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
 
 body {
     font-family:'Open Sans', 'Sans-Serif';
@@ -6,7 +6,7 @@ body {
     width: 70%;
 }
 nav ul, footer ul {
-    font-family:'Helvetica', 'Open Sans', 'Sans-Serif';
+    font-family:'Open Sans', 'Sans-Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -24,10 +24,10 @@ a:hover {
 }
 h1 {
     font-size: 3em;
-    font-family:'Helvetica', 'Open Sans', 'Sans-Serif';
+    font-family:'Open Sans', 'Sans-Serif';
 }
 p {
-    font-family:'Open Sans', 'Sans-Serif';
+    font-family: "Open Sans", sans-serif;
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
