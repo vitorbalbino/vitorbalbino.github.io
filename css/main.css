@@ -3,7 +3,7 @@
 body {
     font-family:'Open Sans', 'Sans-Serif';
     margin: 60px auto;
-    width: 70%;
+    width: 930px;
 }
 
 nav ul, footer ul {
@@ -50,3 +50,9 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+.leftColum {
+    width:170px;
+    height:auto;
+    float:left;
+ }
